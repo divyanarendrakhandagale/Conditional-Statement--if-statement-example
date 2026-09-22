@@ -1,0 +1,30 @@
+#Example 1
+attend_percentage=55
+if attend_percentage>=75:
+    print("you are allowed in exam")
+else:
+    print("You are not allowed in exam")
+#Example 2
+percentage=75
+if percentage>=80:
+    print("You are a excellent student")
+else:
+    print("You are an average student")
+#Example 3
+concert_ticket=True
+if concert_ticket:
+    print("You are allowed to enter the concert")
+else:
+   print("You are not allowed to enter the concert")
+#Example 4
+body_temp=38
+if body_temp>=37:
+    print("You have a fever")
+else:
+   print("You do not have a fever")   
+#Example 5
+rain_percentage=50
+if rain_percentage>=40:
+   print("You have adequate water supply")
+else:
+   print("More water supply needed")
