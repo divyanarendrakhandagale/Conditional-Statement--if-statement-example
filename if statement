@@ -7,14 +7,9 @@ marks=35
 if marks>=35:
     print("Pass")
 #Example 3
-hall_ticket=True
-if hall_ticket:
-    print("You can enter the examination hall")
+
 #Example 4
 battery_percentage=20
 if battery_percentage<=20:
     print("Low power mode turning on.")
 #Example 5
-id_card=True
-if id_card:
-    print("You are allowed to enter the college campus")
