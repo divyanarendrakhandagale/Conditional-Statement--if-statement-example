@@ -14,3 +14,27 @@ elif traffic_light_colour="Yellow":
    print("Go Slow!")
 else:
    print("Go!")
+#Example 3
+temperature=int(input("Enter the temperature"))
+if temperature>=90:
+    print("It's a very hot day")
+elif temperature>50:
+    print("It's a hot day")
+else:
+    print("It's a cool day")
+#Example 4
+score=55
+if score>80:
+    print("Grade A")
+elif score>50:
+   print("Grade B")
+else:
+   print("Grade C")
+#Example 5
+age=16
+if age<13:
+   print("You are a child")
+elif age<20:
+   print("You are a teenager")
+else:
+   print("You are a adult")
