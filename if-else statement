@@ -11,8 +11,14 @@ if percentage>=80:
 else:
     print("You are an average student")
 #Example 3
-concert_ticket=True
-
+#let c be the height of buiding A
+#let d be the height of building B 
+c=150
+d=160
+if c>d:
+   print("Building A is greater than Building B")
+else:
+   print("Building B is greater than Buiding A")
 #Example 4
 body_temp=38
 if body_temp>=37:
