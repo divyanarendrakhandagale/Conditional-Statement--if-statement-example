@@ -12,10 +12,7 @@ else:
     print("You are an average student")
 #Example 3
 concert_ticket=True
-if concert_ticket:
-    print("You are allowed to enter the concert")
-else:
-   print("You are not allowed to enter the concert")
+
 #Example 4
 body_temp=38
 if body_temp>=37:
